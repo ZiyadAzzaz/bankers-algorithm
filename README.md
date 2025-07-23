@@ -28,6 +28,7 @@ bankers-algorithm/
 ├── bankers.c         # Main C program implementing the algorithm
 └── README.md         # Project description and documentation
 ```
+👉 **[View the Full Code Here](https://github.com/ZiyadAzzaz/bankers-algorithm/blob/main/bankers.c)**
 
 ---
 
