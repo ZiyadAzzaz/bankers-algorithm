@@ -1,7 +1,29 @@
 # 🧠 Banker's Algorithm Simulation in C
 
+[![Build](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/ZiyadAzzaz/bankers-algorithm)
+[![Language](https://img.shields.io/badge/language-C-blue)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/ZiyadAzzaz/bankers-algorithm?style=social)](https://github.com/ZiyadAzzaz/bankers-algorithm/stargazers)
+
 A comprehensive C program to simulate the **Banker's Algorithm** — a classic resource allocation and deadlock avoidance strategy in Operating Systems. This project demonstrates how operating systems can determine whether a resource allocation request can be safely granted without leading the system into an unsafe state.
 
+
+## 📚 Table of Contents
+
+- [📌 Overview](#-overview)
+- [🧰 Features](#-features)
+- [📂 Project Structure](#-project-structure)
+- [🛠️ How It Works](#️-how-it-works)
+- [🧪 Sample Data](#-sample-data-hardcoded-in-code)
+- [🧾 Output Example](#-output-example)
+- [🧵 Code Walkthrough](#-code-walkthrough)
+- [📌 Why This Project?](#-why-this-project)
+- [🚀 How to Compile and Run](#-how-to-compile-and-run)
+- [📚 Learning Objectives](#-learning-objectives)
+- [🧱 Possible Extensions](#-possible-extensions)
+- [🙋‍♂️ Author](#-author)
+- [📜 License](#-license)
+  
 ---
 
 ## 📌 Overview
